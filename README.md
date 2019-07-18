@@ -15,7 +15,14 @@ For each problem, `cd` into the directory, read the instructions for the problem
 
 The later problems definitely get progressively more difficult, especially when it comes to deriving a more performant solution. Don't feel bad if you aren't able to figure them out within the timeframe of the sprint. Again, always remember that so long as you put in an earnest effort into attempting to solve these problems, you're learning and getting better. Getting the 'right answer' is just the proverbial cherry on top of the sundae.
 
-This is a two day project so plan your time accordingly!
+## Resources
+* Big O
+   * https://wiki.python.org/moin/TimeComplexity
+   * https://bigocheatsheet.io/?dark-mode=true
+* visualizations of common algorithms
+   * https://www.toptal.com/developers/sorting-algorithms
+   * https://visualgo.net/en
+* Lambda has a good [CS/Algorithms reading list](https://github.com/LambdaSchool/CS-Wiki/wiki/Computer-Science-Reading-List)
 
 ## Problem Solving Principles
 

@@ -1,10 +1,8 @@
 # Making Change
 
-You work as a bank teller, handling people's bank transactions (this is your part-time gig while you're studying at Lambda). 
+You work as a bank teller, handling people's bank transactions. One day one of the wealthiest and also most eccentric patrons of the bank walks up to your stall. They hand you some cash and tell you they want you to figure out exactly how many ways there are to make change for the amount of money they plopped down in front of you using only pennies, nickels, dimes, quarters, and half-dollars. 
 
-One day one of the wealthiest and also most eccentric patrons of the bank walks up to your stall. They hand you some cash and tell you they want you to figure out exactly how many ways there are to make change for the amount of money they plopped down in front of you using only pennies, nickels, dimes, quarters, and half-dollars. 
-
-Since this is a bank, you have an infinite supply of coinange. Write a function `making_change` that receives as input an amount of money in cents as well as an array of coin denominations and calculates the total number of ways in which change can be made for the input amount using the given coin denominations. 
+Since this is a bank, you have an infinite supply of coinage. Write a function `making_change` that receives as input an amount of money in cents as well as an array of coin denominations and calculates the total number of ways in which change can be made for the input amount using the given coin denominations. 
 
 For example, `making_change(10)` should return 4, since there are 4 ways to make change for 10 cents using pennies, nickels, dimes, quarters, and half-dollars:
 
